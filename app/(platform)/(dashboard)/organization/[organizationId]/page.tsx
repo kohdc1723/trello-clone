@@ -5,7 +5,7 @@ const OrganizationIdPage = () => {
 
     return (
         <div>
-            <OrganizationSwitcher />
+            OrgIdPage
         </div>
     );
 };
