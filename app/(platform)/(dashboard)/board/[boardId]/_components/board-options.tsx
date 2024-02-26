@@ -40,7 +40,7 @@ const BoardOptions = ({
                 align="start"
             >
                 <div className="text-sm font-medium text-center text-neutral-600 pb-4">
-                    boardoptions
+                    Board actions
                 </div>
                 <PopoverClose asChild>
                     <Button
