@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+
 import { ListWithCards } from "@/types";
 import ListForm from "./list-form";
 import ListItem from "./list-item";
@@ -29,7 +30,9 @@ const ListContainer = ({
                     data={list}
                 />
             ))}
+
             <ListForm />
+            
             <div className="flex-shrink-0 w-1" />
         </ol>
     );

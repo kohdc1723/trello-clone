@@ -1,9 +1,10 @@
 "use client";
 
-import { useOrganization } from "@clerk/nextjs";
 import Image from "next/image";
-import {CreditCard} from "lucide-react";
-import {Skeleton} from "@/components/ui/skeleton";
+import { useOrganization } from "@clerk/nextjs";
+import { CreditCard } from "lucide-react";
+
+import { Skeleton } from "@/components/ui/skeleton";
 
 const Info = () => {
     const { organization, isLoaded } = useOrganization();

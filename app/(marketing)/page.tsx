@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Medal } from "lucide-react";
+
 import { Button } from "@/components/ui/button";
 
 const MarketingPage = () => {
