@@ -6,6 +6,7 @@ import { db } from "@/lib/db";
 import { revalidatePath } from "next/cache";
 import createSafeAction from "@/lib/create-safe-action";
 import { UpdateCardOrder } from "./schema";
+import createAuditLog from "@/lib/create-audit-log";
 
 const handler = async (data: InputType): Promise<OutputType> => {
     const { userId, orgId } = auth();

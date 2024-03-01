@@ -3,7 +3,7 @@ import { redirect } from "next/navigation";
 import { HelpCircle } from "lucide-react";
 import { auth } from "@clerk/nextjs";
 
-import Hint from "@/components/ui/hint";
+import Hint from "@/components/hint";
 import FormPopover from "@/components/form/form-popover";
 import { db } from "@/lib/db";
 import { Skeleton } from "@/components/ui/skeleton";
