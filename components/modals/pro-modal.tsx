@@ -43,7 +43,7 @@ const ProModal = () => {
                         Upgrade to Pro today!
                     </h2>
                     <p className="text-xs font-semibold text-neutral-600">
-                        Explore the best of Taskify
+                        Explore the best of Trello
                     </p>
                     <div className="pl-3">
                         <ul className="text-sm list-disc">

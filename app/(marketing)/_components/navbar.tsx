@@ -15,7 +15,7 @@ const Navbar = () => {
                     </Button>
                     <Button size="sm" asChild>
                         <Link href="/signup">
-                            Get Taskify for free
+                            Get Trello for free
                         </Link>
                     </Button>
                 </div>

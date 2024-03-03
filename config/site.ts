@@ -1,4 +1,4 @@
 export const siteConfig = {
-    name: "Taskify",
-    description: "Collaborate and manage projects, and reach new productivity peaks"
+    name: "Trello",
+    description: "Trusted by Millions — Go from Idea to Action in Seconds with Trello’s Intuitively Simple Boards, Lists & Cards."
 };

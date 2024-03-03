@@ -12,7 +12,7 @@ const Logo = () => {
                     width={30}
                 />
                 <p className="font-black text-lg text-neutral-700 pb-1">
-                    Taskify
+                    Trello
                 </p>
             </div>
         </Link>
