@@ -3,7 +3,7 @@
 import { useQuery } from "@tanstack/react-query";
 
 import useCardModal from "@/hooks/use-card-modal";
-import { Dialog, DialogContent } from "../ui/dialog";
+import { Dialog, DialogContent } from "../../ui/dialog";
 import { CardWithList } from "@/types";
 import fetcher from "@/lib/fetcher";
 import Header from "./header";

@@ -2,9 +2,9 @@
 
 import { CardWithList } from "@/types";
 import { Layout } from "lucide-react";
-import FormInput from "../form/form-input";
+import FormInput from "../../form/form-input";
 import { useState, useRef, ElementRef } from "react";
-import { Skeleton } from "../ui/skeleton";
+import { Skeleton } from "../../ui/skeleton";
 import { useQueryClient } from "@tanstack/react-query";
 import { useParams } from "next/navigation";
 import useAction from "@/hooks/use-action";

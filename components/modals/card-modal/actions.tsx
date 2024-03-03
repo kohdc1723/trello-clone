@@ -1,8 +1,8 @@
 "use client";
 
 import { CardWithList } from "@/types";
-import { Skeleton } from "../ui/skeleton";
-import { Button } from "../ui/button";
+import { Skeleton } from "../../ui/skeleton";
+import { Button } from "../../ui/button";
 import { Copy, Trash } from "lucide-react";
 import useAction from "@/hooks/use-action";
 import copyCard from "@/actions/copy-card";

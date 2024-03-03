@@ -1,15 +1,15 @@
 "use client";
 
 import { CardWithList } from "@/types";
-import { Skeleton } from "../ui/skeleton";
+import { Skeleton } from "../../ui/skeleton";
 import { AlignLeft } from "lucide-react";
 import { ElementRef, useRef, useState } from "react";
 import { useQueryClient } from "@tanstack/react-query";
 import { useParams } from "next/navigation";
 import { useEventListener, useOnClickOutside } from "usehooks-ts";
-import FormTextarea from "../form/form-textarea";
-import FormSubmit from "../form/form-submit";
-import { Button } from "../ui/button";
+import FormTextarea from "../../form/form-textarea";
+import FormSubmit from "../../form/form-submit";
+import { Button } from "../../ui/button";
 import useAction from "@/hooks/use-action";
 import { toast } from "sonner";
 import updateCard from "@/actions/update-card";
