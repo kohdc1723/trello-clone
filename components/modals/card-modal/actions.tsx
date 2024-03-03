@@ -91,7 +91,7 @@ const Actions = ({
     );
 };
 
-Actions.Skeleton = () => {
+Actions.Skeleton = function ActionsSkeleton() {
     return (
         <div className="space-y-2 mt-2">
             <Skeleton className="w-20 h-full bg-neutral-200" />

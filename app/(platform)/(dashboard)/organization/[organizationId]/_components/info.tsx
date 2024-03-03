@@ -42,7 +42,7 @@ const Info = ({
     );
 };
 
-Info.Skeleton = () => {
+Info.Skeleton = function InfoSkeleton() {
     return (
         <div className={"flex items-center gap-x-4"}>
             <div className={"w-[60px] h-[60px] relative"}>
