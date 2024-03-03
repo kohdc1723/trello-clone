@@ -1,8 +1,16 @@
 # Trello Clone
 
-## Overview
+## Project Summary
 
-## Built with
+### About
+A full-stack web application that cloned Trello.
+
+### Key features
+- Auth with Clerk
+- Subscription and payments with Stripe
+- Trello board with drap and drop feature
+
+### Built with
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
