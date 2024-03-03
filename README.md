@@ -3,12 +3,7 @@
 ## Project Summary
 
 ### About
-A full-stack web application that cloned Trello.
-
-### Key features
-- Auth with Clerk
-- Subscription and payments with Stripe
-- Trello board with drap and drop feature
+A full-stack web application that offers drag and drop task management service, cloned from Trello
 
 ### Built with
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
