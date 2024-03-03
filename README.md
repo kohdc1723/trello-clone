@@ -7,7 +7,8 @@
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![reactquery](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![shadcnui](https://img.shields.io/badge/zustand-3578E5?style=for-the-badge&logoColor=white)
+![zustand](https://img.shields.io/badge/zustand-3578E5?style=for-the-badge&logoColor=white)
+![zod](https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ![tailwindcss](https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcnui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
@@ -18,6 +19,9 @@
 
 ![clerk](https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![stripe](https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![unsplash](https://img.shields.io/badge/unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white)
+
+![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 # Screenshots
 
